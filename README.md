@@ -1,3 +1,7 @@
+# WARNING
+
+We're not aiming to maintaing this repo, this is only for update some libs due to an internal usage;
+
 > Old Vue 2 implementation of the KaTeX library. To not use with Vue 3.
 
 # vue-katex
